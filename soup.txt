@@ -2,8 +2,10 @@ Ingredienten:
 - Bloemkool
 - Courgette
 - Knoflook
+- Ui
 
 Bereiden:
 
-- Snipper de uit
+- Snipper de ui
+- Pel de knoflook
 - Snij de courgette in blokjes
